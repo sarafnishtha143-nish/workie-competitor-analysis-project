@@ -128,6 +128,7 @@ def load_data():
 
     df = pd.read_csv(
     r"C:\Users\sujal\workie competitor analysis\workie_competitor_raw.csv"
+
 )
 
 
